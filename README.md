@@ -1,2 +1,6 @@
 # LearningRecord
-Learning record for open source certification
+
+**Learning record for open source certification**
+
+**停止内耗**
+
